@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "343303905795",
+    "firebase_url": "https://loginexamplekotlin.firebaseio.com",
+    "project_id": "loginexamplekotlin",
+    "storage_bucket": "loginexamplekotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343303905795:android:502c511017570b0a",
+        "android_client_info": {
+          "package_name": "com.g.loginexamplekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343303905795-u8vsjt3ctn44brpabndo78npvd2ee7nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.g.loginexamplekotlin",
+            "certificate_hash": "f2fae281ccde29e3395e2e6180da2927dfce7479"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCthTbLFFaUc8g1WmZO-xc_MNQXoufFm5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343303905795-gc7toqro692gksdv6fokgr9ptlm7qvoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
